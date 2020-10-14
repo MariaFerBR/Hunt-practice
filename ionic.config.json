@@ -1,0 +1,7 @@
+{
+  "name": "Hunt-practice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
